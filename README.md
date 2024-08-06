@@ -1,1 +1,2 @@
-# spaamSS
+# spaamSSexample
+Just an example repo
